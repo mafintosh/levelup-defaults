@@ -7,6 +7,8 @@ by returning a new levelup instance that uses the same leveldown but different o
 npm install levelup-defaults
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/levelup-defaults.svg?style=flat)](http://travis-ci.org/mafintosh/levelup-defaults)
+
 ## Usage
 
 ``` js
