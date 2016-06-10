@@ -1,6 +1,6 @@
 {
   "name": "levelup-defaults",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Change the defaults settings on a levelup instance by returning a new levelup instance that uses the same leveldown but different options",
   "main": "index.js",
   "dependencies": {
